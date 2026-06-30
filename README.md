@@ -1,6 +1,6 @@
 # Beyond the Handshake
 
-## Investigating Unsolicited BGP Activity Using a BGP Honeypot
+## Investigating Unsolicited Peering Activity with a BGP Honeypot
 
 This repository contains the supporting material for my Master's thesis at TU Delft:
 
