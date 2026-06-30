@@ -4,7 +4,7 @@
 
 This repository contains the supporting material for my Master's thesis at TU Delft:
 
-**Beyond the Handshake: Investigating Unsolicited BGP Activity Using a BGP Honeypot**
+**Beyond the Handshake: Investigating Unsolicited Peering Activity with a BGP Honeypot**
 
 ## Author
 
